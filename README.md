@@ -13,8 +13,6 @@ replace ```58 3A EA 03``` with ```48 88 0A 04```, there should be only one match
 
 # Sekiro.exe patches
 ## 120 fps
-###hex editing 
 After unpacking Sekiro's exe, replace ``88`` with ``08`` at offset 11AAB52
 ## 21:9 Ultrawide
-###hex editing
 replace ``74`` with ``EB`` at offset 12A26A
